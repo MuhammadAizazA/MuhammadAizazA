@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my LinkedIn profile! I'm Muhammad Aizaz, a passionate Software Engineer with a love for solving complex problems and building innovative solutions. Here's a bit about me:
+Welcome to my github profile! I'm Muhammad Aizaz, a passionate Software Engineer with a love for solving complex problems and building innovative solutions. Here's a bit about me:
 
 - 🔭 I'm currently working on honing my skills in machine learning and data science.
 - 🌱 I'm always learning and expanding my knowledge in software development, particularly in areas like artificial intelligence and cloud computing.
