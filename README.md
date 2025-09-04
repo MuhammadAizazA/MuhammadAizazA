@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there
 
 Welcome to my github profile! I'm Muhammad Aizaz Shah, a passionate Software Engineer with a love for solving complex problems and building innovative solutions. Here's a bit about me:
 
-- 🔭 I'm currently working on honing my skills in machine learning and data science.
-- 🌱 I'm always learning and expanding my knowledge in software development, particularly in areas like artificial intelligence and cloud computing.
-- 👯 I'm open to collaboration on projects that involve cutting-edge technologies and have a positive impact on society.
-- 💬 Feel free to ask me about anything related to software engineering, machine learning, or technology in general. Always eager to share knowledge and exchange ideas.
-- 📫 You can reach me through LinkedIn messages or by email at [aizaz.ali.shah.0205@gmail.com](mailto:aizaz.ali.shah.0205@gmail.com).
-- ⚡ Fun fact: I'm also a fan of FPS games like Valorant and CS:GO, and I enjoy immersing myself in virtual worlds.
+- I'm currently working on honing my skills in machine learning and data science.
+- I'm always learning and expanding my knowledge in software development, particularly in areas like artificial intelligence and cloud computing.
+- I'm open to collaboration on projects that involve cutting-edge technologies and have a positive impact on society.
+- Feel free to ask me about anything related to software engineering, machine learning, or technology in general. Always eager to share knowledge and exchange ideas.
+- You can reach me through LinkedIn messages or by email at [aizaz.ali.shah.0205@gmail.com](mailto:aizaz.ali.shah.0205@gmail.com).
+- Fun fact: I'm also a fan of FPS games like Valorant and CS:GO, and I enjoy immersing myself in virtual worlds.
 
 ### Projects:
 
@@ -73,4 +73,4 @@ Welcome to my github profile! I'm Muhammad Aizaz Shah, a passionate Software Eng
 - Model Interpretability and Explainability
 - Collaboration and Communication
 
-Looking forward to connecting with like-minded professionals and exploring opportunities to learn and grow together. Let's make great things happen! 🚀
+Looking forward to connecting with like-minded professionals and exploring opportunities to learn and grow together. Let's make great things happen!
